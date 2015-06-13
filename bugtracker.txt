@@ -1,0 +1,3 @@
+servo/servo/labels/E-Easy : #6363
+Sumith1896/gof/labels/easy : #11
+sympy/symengine/labels/Easy to fix : #138
