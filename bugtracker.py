@@ -51,7 +51,7 @@ for line in lines:
 		if number == issue_details[-1]:
 			print "You have already been notified about this previously \n"
 		else:
-			print "New bug have been reported, do check \n"
+			print "New bugs have been reported, do check \n"
 			print line
 			line = line.replace(issue_details[-1], number)
 			print line
